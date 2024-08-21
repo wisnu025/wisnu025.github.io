@@ -713,8 +713,17 @@ footer p{
     html{
         font-size: 50%;
     } 
-    .beranda{
-        padding: 0 3% 50rem;
+     .beranda{
+        padding: 0 3% 57rem;
+    }
+    .beranda-content h3{
+        font-size: 2rem;
+    }
+    .beranda h1{
+        font-size: 3rem;
+    }
+    .beranda p{
+        font-size: 1.2rem;
     }
 }
 @media  (max-width: 300px){
