@@ -659,19 +659,23 @@ footer p{
         transform-origin: 0;
     }
     .beranda .profession-box .profession:nth-child(1){
-        transform: rotate(-90deg) translate(-95px, -230px);
+        transform: rotate(-90deg) translate(-82px, -255px);
+        /* ui */
     }
     .beranda .profession-box .profession:nth-child(1){
         margin-right: 0;
     }
     .beranda .profession-box .profession:nth-child(2){
-        transform: rotate(0deg) translate(0, -320px);
+        transform: rotate(0deg) translate(0, -340px);
+        /* web */
     }
     .beranda .profession-box .profession:nth-child(3){
-        transform: rotate(90deg) translate(-80px, -420px);
+        transform: rotate(90deg) translate(-75px, -428px);
+        /* qa */
     }
     .beranda .profession-box .profession:nth-child(4){
-        transform: rotate(180deg) translate(-220px, -320px);
+        transform: rotate(180deg) translate(-198px, -340px);
+        /* data */
     }
     .beranda .profession-box .circle{
         position: fixed;
@@ -710,7 +714,7 @@ footer p{
         font-size: 50%;
     } 
     .beranda{
-        padding: 0 3% 40rem;
+        padding: 0 3% 45rem;
     }
 }
 @media  (max-width: 300px){
